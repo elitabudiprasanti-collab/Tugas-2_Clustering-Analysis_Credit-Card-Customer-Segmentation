@@ -32,11 +32,19 @@ st.markdown("""
 <style>
 
 .stApp {
-    background-color: #F7F9FC;
+    background-color: #F4F7FC;
 }
 
 [data-testid="stSidebar"] {
-    background-color: #E8F0FE;
+    background-color: #DCEBFA;
+}
+
+h1 {
+    color: #0F4C81;
+}
+
+h2, h3 {
+    color: #1E3A5F;
 }
 
 </style>
